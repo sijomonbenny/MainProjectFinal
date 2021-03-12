@@ -17,7 +17,7 @@
     "html-react-parser": "0.0.4",
     "ipfs-api": "^26.1.2",
     "js-base64": "^2.5.2",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "module": "^1.2.5",
     "moment": "^2.24.0",
     "mongodb": "^3.5.5",
